@@ -7,10 +7,7 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 ====
 Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.
-====
-
-Identify and describe at least three key milestones in the evolution of software engineering.
-====
+==
 1. Reduces Complexity
 Dealing with big Software is very complicated and challenging. Thus, to reduce the complications of projects, software engineering has great solutions. It simplifies complex problems and solves those issues one by one.
 2. Handling Big Projects
@@ -23,6 +20,13 @@ If things are not made according to the procedures, it becomes a huge loss of ti
 Making standards decides the effectiveness of things. Therefore, a company always targets the software standard to make it more effective and Software becomes more effective only with the help of software engineering.
 6. Reliable Software
 The Software will be reliable if software engineering, testing, and maintenance are given. As a software developer, you must ensure that the Software is secure and will work for the period or subscription you have agreed upon.
+====
+
+Identify and describe at least three key milestones in the evolution of software engineering.
+====
+1968: The first NATO Software Engineering Conference is held.
+1970s: A number of new methodologies are developed, including structured programming and object-oriented programming
+ 1980s: The first computer-aided software engineering (CASE) tools are released.
 ====
 
 List and briefly explain the phases of the Software Development Life Cycle.
